@@ -32,7 +32,9 @@ Prevent computer from falling asleep/appear as active in teams.
 2. Atsidaro langas
 3. Nueinamee i Downloads folderi (ar folderi, kuriame issisaugojote zip faila)
 4. Atsidarome `move_it_move_it` folderi
-5. Atsidariusio lango virsutineje eiluteje(paspausk ja, ji yra virsuje, per viduri) parasome `cmd` (be kabuciu) ir spaudziame ENTER
-6. Atsidariusiame juodame lange irasome `python move_it_move_it.py` (be kabuciu) ir spaudziame ENTER
-7. Sekame instrukcijas kurias matysite juodame lange (irasome minutes kiek laiko norime, jog scriptas veiktu (judintu pelyte), noredami baigti - spaudziame ESC)
-8. Baige, galite isijungti juoda langa.
+5. Pabandom paleisti scripta:
+   a. arba tiesiog du kartus paspaudziam ant `move_it_move_it.py` failo, kad ji paleisti
+   b. arba 4 zingsnyje atsidariusio lango virsutineje eiluteje (paspausk ja, ji yra virsuje, per viduri) parasome `cmd` (be kabuciu) ir spaudziame ENTER.     
+      Atsidariusiame juodame lange irasome `python move_it_move_it.py` (be kabuciu) ir spaudziame ENTER
+9. Sekame instrukcijas kurias matysite juodame lange
+10. Baige, galite isijungti juoda langa.
