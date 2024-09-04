@@ -31,8 +31,7 @@ Prevent computer from falling asleep/appear as active in teams.
 2. Atsidaro langas
 3. Nueinamee i Downloads folderi
 4. I ji ikeliame `move_it_move_it.py` faila
-5. Atsidariusio lango virsuje parasome `cmd`
-   ![image](https://github.com/user-attachments/assets/292a5a8a-0d46-47de-8f1b-6fcd76d5e677)
+5. Atsidariusio lango virsutineje eiluteje parasome `cmd`
 6. Atsidariusiame juodame lange irasome `python move_it_move_it.py` ir spaudziame ENTER
 7. Sekame instrukcijas kurias matysite juodame lange (irasome minutes kiek laiko norime, jog scriptas veiktu (judintu pelyte), noredami baigti - spaudziame ESC)
 8. Baige, galite isijungti juoda langa.
